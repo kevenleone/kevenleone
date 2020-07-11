@@ -15,8 +15,4 @@ Currently, working with React, and on the free time i enjoy to code with:
 Also, i had contribute with docs translations on open-source projects.
 Check one of my pinned projects, down here and feel free to contribute ✌
 
-And, Ragnarok Lover.
-
-<img src="https://raw.githubusercontent.com/kevenleone/ragnarok-react-native/master/assets/images/1557.gif" width="100" height="100">
-
-
+<img src="https://github.com/kevenleone/ragnarok-server/blob/master/images/animated/2006.gif?raw=true">

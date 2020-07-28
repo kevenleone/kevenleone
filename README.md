@@ -14,5 +14,3 @@ Currently, working with React, and on the free time i enjoy to code with:
 
 Also, i had contribute with docs translations on open-source projects.
 Check one of my pinned projects, down here and feel free to contribute ✌
-
-<img src="https://github.com/kevenleone/ragnarok-server/blob/master/images/animated/2006.gif?raw=true">

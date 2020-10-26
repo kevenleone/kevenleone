@@ -12,5 +12,5 @@ Currently, working with React, and on the free time i enjoy to code with:
 * GraphQL
 * NodeJS Backend
 
-Also, i had contribute with docs translations on open-source projects.
+Also, i had contribute with docs translations on open-source projects. <br />
 Check one of my pinned projects, down here and feel free to contribute ✌

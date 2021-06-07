@@ -5,12 +5,9 @@ Frontend-Engineer at Liferay <a href="https://github.com/liferay"><img title="Li
 
 <hr />
 
-Hey, i'm a full-stack developer, passionate for Open-Source and Javascript 💛
+Hey, I'm a full-stack developer, passionate for Open-Source and Typescript 💙
 
-Currently, working with React, and on the free time i enjoy to code with:
-* React / React Native
+Currently, working with React, and on the free time I enjoy to code with:
+* Next.JS
 * GraphQL
 * NodeJS Backend
-
-Also, i've contributed with docs translations on open-source projects. <br />
-Check one of my pinned projects, down here and feel free to contribute ✌

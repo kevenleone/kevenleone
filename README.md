@@ -6,8 +6,3 @@ Team Lead | Frontend-Engineer at Liferay <a href="https://github.com/liferay"><i
 <hr />
 
 Hey, I'm a full-stack developer, passionate for Open-Source and Typescript 💙
-
-Currently, working with React, and on the free time I enjoy to code with:
-* Next.JS
-* GraphQL
-* NodeJS Backend

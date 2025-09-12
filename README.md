@@ -1,7 +1,2 @@
 Team Lead | Software Engineer at Liferay <a href="https://github.com/liferay"><img title="Liferay" alt="@Liferay" src="https://www-cdn.liferay.com/o/osb-www-theme/images/favicon.ico" width="15" height="15"/></a>
 
-[![Linkedin Badge](https://img.shields.io/badge/Keven%20Leone-6633cc?style=flat-square&logo=Linkedin&logoColor=white&color=30313f&link=https://www.linkedin.com/in/kevenleone/)](https://www.linkedin.com/in/kevenleone/) 
-
-<hr />
-
-I'm full-stack developer, working with Open-Source and Typescript 💙
